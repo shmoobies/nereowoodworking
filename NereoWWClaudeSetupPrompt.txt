@@ -1,0 +1,12 @@
+We are building a simple website that the owner can easliy add items
+pictures and edit the website from a simple web like interface.  Examples would
+be similar to wix.com or weebly.com.
+We will be using Webstorm from Jetbrains.
+We will be using the free version of the IDE.
+The website should be easliy viewable on any device.
+We will be using the free version of the database if needed.
+We will be hosting the website from sites.google.com.
+We will be using a github account and repository to server the files from and making changes to.
+
+To start we will copy the website at www.nereowoodworking.com.
+

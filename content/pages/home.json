@@ -1,0 +1,34 @@
+{
+  "heroHeading": "Handcrafted Woodworking",
+  "heroSubheading": "Custom furniture and woodwork built with care and precision.",
+  "heroButtonText": "See Our Work",
+  "heroImage": "/images/hero.jpg",
+  "aboutHeading": "About Nereo Woodworking",
+  "aboutText": "We are passionate craftsmen dedicated to creating beautiful, lasting pieces for your home. Every project is built by hand with quality materials and attention to detail.",
+  "aboutImage": "/images/about.jpg",
+  "servicesHeading": "What We Do",
+  "services": [
+    {
+      "title": "Custom Furniture",
+      "description": "Tables, chairs, cabinets, and more — designed and built to your specifications.",
+      "image": "/images/service-furniture.jpg"
+    },
+    {
+      "title": "Home Restoration",
+      "description": "Bring new life to existing pieces with expert restoration and refinishing.",
+      "image": "/images/service-restoration.jpg"
+    },
+    {
+      "title": "Decorative Pieces",
+      "description": "Shelves, frames, and decorative woodwork to complement any space.",
+      "image": "/images/service-decor.jpg"
+    }
+  ],
+  "galleryHeading": "Our Work",
+  "galleryImages": [],
+  "contactHeading": "Get In Touch",
+  "contactEmail": "info@nereowoodworking.com",
+  "contactPhone": "",
+  "contactAddress": "",
+  "footerText": "© 2024 Nereo Woodworking. All rights reserved."
+}
