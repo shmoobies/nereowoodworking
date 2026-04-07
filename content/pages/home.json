@@ -1,12 +1,19 @@
 {
-  "heroHeading": "Handcrafted Woodworking",
-  "heroSubheading": "Custom furniture and woodwork built with care and precision.",
-  "heroButtonText": "See Our Work",
-  "heroImage": "/images/hero.jpg",
-  "aboutHeading": "About Nereo Woodworking",
-  "aboutText": "We are passionate craftsmen dedicated to creating beautiful, lasting pieces for your home. Every project is built by hand with quality materials and attention to detail.",
-  "aboutImage": "/images/about.jpg",
+  "heroImage": "/images/nereologo4-1-.jpg",
+  "contactHeading": "Get In Touch",
   "servicesHeading": "What We Do",
+  "heroHeading": "Architectural Woodworking",
+  "footerText": "© 2024 Nereo Woodworking. All rights reserved.",
+  "galleryImages": [],
+  "contactPhone": "",
+  "aboutImage": "/images/about.jpg",
+  "galleryHeading": "Our Work",
+  "contactAddress": "",
+  "aboutHeading": "About Nereo Woodworking",
+  "heroButtonText": "See Our Work",
+  "aboutText": "We are passionate craftsmen dedicated to creating beautiful, lasting pieces for your home. Every project is built by hand with quality materials and attention to detail.",
+  "heroSubheading": "Custom woodwork built with care and precision.",
+  "contactEmail": "info@nereowoodworking.com",
   "services": [
     {
       "title": "Custom Furniture",
@@ -23,12 +30,5 @@
       "description": "Shelves, frames, and decorative woodwork to complement any space.",
       "image": "/images/service-decor.jpg"
     }
-  ],
-  "galleryHeading": "Our Work",
-  "galleryImages": [],
-  "contactHeading": "Get In Touch",
-  "contactEmail": "info@nereowoodworking.com",
-  "contactPhone": "",
-  "contactAddress": "",
-  "footerText": "© 2024 Nereo Woodworking. All rights reserved."
+  ]
 }
